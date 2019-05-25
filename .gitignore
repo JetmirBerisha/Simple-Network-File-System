@@ -1,0 +1,5 @@
+*.o
+*.txt
+server/serverSNFS
+compile_commands.json
+client/clientSNFS
